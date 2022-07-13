@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 # Hola, mucho gusto. 👋
 #Bienvenid@, Soy Raquel Yoselin Barrera Begazo ✨
 *Soy estudiante de Ingeniería en Telecomunicaciones de la Universidad Nacional de San Agustin de Arequipa*
@@ -23,4 +21,3 @@
 - 📫 Me pueden encontrar en mi corrreo: rbarrerab@unsa.edu.pe o en mi cuenta de Linkedin
 - ⚡ [Cuenta de Linkedin](http://https://www.linkedin.com/feed/ "Cuena de Linkedin")
 
--->
