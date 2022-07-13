@@ -1,16 +1,26 @@
 ### Hi there 👋
 
 <!--
-**RaquelBarrera/RaquelBarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, mucho gusto. 👋
+#Bienvenid@, Soy Raquel Yoselin Barrera Begazo ✨
+*Soy estudiante de Ingeniería en Telecomunicaciones de la Universidad Nacional de San Agustin de Arequipa*
 
-Here are some ideas to get you started:
+### -** Actividades📒**
+*Por este medio se irá subiendo un poco de los tantas prácticas y trabajos en el transcurso de mi experiencia con el Lenguaje **Python **y el uso de las distintas** librerías** que este posee.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://miro.medium.com/max/1400/0*bJcKRiHEUYwj1cCb.png)
+
+> El mejor experto también fue un día aprendiz.
+
+
+
+**Tabla de Contenido**
+
+[TOCM]
+
+[TOC]
+
+- 📫 Me pueden encontrar en mi corrreo: rbarrerab@unsa.edu.pe o en mi cuenta de Linkedin
+- ⚡ [Cuenta de Linkedin](http://https://www.linkedin.com/feed/ "Cuena de Linkedin")
+
 -->
