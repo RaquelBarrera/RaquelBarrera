@@ -12,5 +12,5 @@
 
 
 - 📫 Me pueden encontrar en mi corrreo: rbarrerab@unsa.edu.pe o en mi cuenta de Linkedin
-- ⚡ [Cuenta de Linkedin](http://https://www.linkedin.com/feed/ "Cuena de Linkedin")
+- ⚡ [Cuenta de Linkedin](http://https://www.linkedin.com/feed/ "Cuenta de Linkedin")
 
