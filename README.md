@@ -12,5 +12,4 @@
 
 
 - 📫 Me pueden encontrar en mi corrreo: rbarrerab@unsa.edu.pe o en mi cuenta de Linkedin
-- ⚡ [Cuenta de Linkedin](www.linkedin.com/in/raquel-yoselin-barrera-begazo-15b783333)
 
